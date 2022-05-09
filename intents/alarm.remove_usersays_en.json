@@ -1,0 +1,493 @@
+[
+  {
+    "id": "3111d628-a683-4772-a0c2-e6498f000808",
+    "data": [
+      {
+        "text": "don\u0027t wake me up on ",
+        "userDefined": false
+      },
+      {
+        "text": "Mondays",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc8c4908-a3c3-4e3b-8065-e213f964b502",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "6 am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " alarm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92172daf-a983-4317-ac01-ba05fc1ae25a",
+    "data": [
+      {
+        "text": "remove my alarms for the ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "meta": "@sys.time-period",
+        "alias": "time-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51bf632f-de30-4f93-856d-da7eae6edf7b",
+    "data": [
+      {
+        "text": "turn off my ",
+        "userDefined": false
+      },
+      {
+        "text": "weekly",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " alarm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68a6d340-53e4-4efe-83ea-9a424aa75863",
+    "data": [
+      {
+        "text": "remove my alarms set for ",
+        "userDefined": false
+      },
+      {
+        "text": "8 am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f927872a-8971-41e7-8493-e039779d4d57",
+    "data": [
+      {
+        "text": "remove alarm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7c8869d-0851-4059-81cc-90159a966785",
+    "data": [
+      {
+        "text": "don\u0027t wake me up at ",
+        "userDefined": false
+      },
+      {
+        "text": "5 am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cce0fb7c-dacb-4656-9c6c-0ab8c5859081",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " my alarms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a97bc7a5-a551-424d-85fe-0acb5e0adaca",
+    "data": [
+      {
+        "text": "I\u0027d like to remove my alarms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02fbc1e9-7d2a-4182-9ab7-104b719492eb",
+    "data": [
+      {
+        "text": "remove alarms for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e73097e9-dd86-4112-9663-a58c1bb2d3ca",
+    "data": [
+      {
+        "text": "turn off the alarm for ",
+        "userDefined": false
+      },
+      {
+        "text": "10 am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e5e5c45-4106-49e9-b530-0a4b26e6ef62",
+    "data": [
+      {
+        "text": "I\u0027d like to turn off the ",
+        "userDefined": false
+      },
+      {
+        "text": "weekly",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " alarm at ",
+        "userDefined": false
+      },
+      {
+        "text": "10 am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52f6ca01-5a06-400e-b481-3fcddcfd962b",
+    "data": [
+      {
+        "text": "turn off alarms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ecc6b3b-771f-438e-8034-ffe233991a0b",
+    "data": [
+      {
+        "text": "cancel ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " alarm ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df771595-7770-478b-9b05-39cb24b7360f",
+    "data": [
+      {
+        "text": "could you erase my alarms list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef32a343-7ae7-4792-ab30-6e25fa287caf",
+    "data": [
+      {
+        "text": "can you remove my ",
+        "userDefined": false
+      },
+      {
+        "text": "6 am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " alarm please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "768d6739-2a56-4dc5-86a8-e86d11aec6fa",
+    "data": [
+      {
+        "text": "disable my ",
+        "userDefined": false
+      },
+      {
+        "text": "Work",
+        "meta": "@sys.any",
+        "alias": "alarm-name",
+        "userDefined": true
+      },
+      {
+        "text": " alarm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9140f9d-1c35-4983-ae68-907178cbdd68",
+    "data": [
+      {
+        "text": "switch off my alarms for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5e3ed1d-7b24-432f-8cd8-0db684e671be",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " my alarms at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb46a306-c44e-40f0-87b6-a2882d70de7b",
+    "data": [
+      {
+        "text": "clear the alarms list for ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d3be207-6043-47d7-8909-1c4a230ded77",
+    "data": [
+      {
+        "text": "delete the alarm called ",
+        "userDefined": false
+      },
+      {
+        "text": "Gym",
+        "meta": "@sys.any",
+        "alias": "alarm-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fca67a94-1952-4d88-9938-516932e17e83",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " my alarms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb12e145-c5a1-4088-83f7-efa21c6c88d3",
+    "data": [
+      {
+        "text": "erase the list of ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " my alarms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

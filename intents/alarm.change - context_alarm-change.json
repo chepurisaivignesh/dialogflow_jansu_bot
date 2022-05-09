@@ -1,0 +1,139 @@
+{
+  "id": "726b52a6-3fec-4e5f-8b0d-f1455176686d",
+  "name": "alarm.change - context:alarm-change",
+  "auto": true,
+  "contexts": [
+    "alarm-change"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "alarm.change",
+      "affectedContexts": [
+        {
+          "name": "alarmchange-contextalarm-change-followup",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9c1ffcc1-d439-439c-ab15-de5847041d16",
+          "name": "time-from",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "$time-from",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "edd141dd-7d5e-4e49-bb03-67d7909cabac",
+          "name": "time-to",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "$time-to",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ec09e1cd-577d-4bfe-b1f3-4e951bd92348",
+          "name": "date-from",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date-from",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d22f922d-57a2-42b7-a60e-f1e98084d824",
+          "name": "date-to",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date-to",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "aa443968-e2af-4443-b428-d0b119e604d2",
+          "name": "recurrence-from",
+          "required": false,
+          "dataType": "@recurrence",
+          "value": "$recurrence-from",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "07aa21d5-f466-46ed-9130-a116d7943973",
+          "name": "recurrence-to",
+          "required": false,
+          "dataType": "@recurrence",
+          "value": "$recurrence-to",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bd6f639c-1b98-40db-a6b1-3023836a83db",
+          "name": "song",
+          "required": false,
+          "dataType": "@song",
+          "value": "$song",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

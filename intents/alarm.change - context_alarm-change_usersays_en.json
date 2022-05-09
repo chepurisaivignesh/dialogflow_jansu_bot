@@ -1,0 +1,418 @@
+[
+  {
+    "id": "3cdacac7-dcfb-42f0-af1a-739595b42f34",
+    "data": [
+      {
+        "text": "from ",
+        "userDefined": false
+      },
+      {
+        "text": "next Sunday",
+        "meta": "@sys.date",
+        "alias": "date-from",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "this Sunday",
+        "meta": "@sys.date",
+        "alias": "date-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "670f997c-0d22-4e39-b0e5-05e4b2a5d0a8",
+    "data": [
+      {
+        "text": "change it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afbc00fc-4f88-4ab4-a037-8201c8cf1ecf",
+    "data": [
+      {
+        "text": "from ",
+        "userDefined": false
+      },
+      {
+        "text": "5:45",
+        "meta": "@sys.time",
+        "alias": "time-from",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "5:30",
+        "meta": "@sys.time",
+        "alias": "time-to",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every weekday",
+        "meta": "@recurrence",
+        "alias": "recurrence-to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3130897e-81ab-4068-8706-be6e92bbb4de",
+    "data": [
+      {
+        "text": "change it from ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuesday",
+        "meta": "@sys.date",
+        "alias": "date-from",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Wednesday",
+        "meta": "@sys.date",
+        "alias": "date-to",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "11 am",
+        "meta": "@sys.time",
+        "alias": "time-from",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "10 am",
+        "meta": "@sys.time",
+        "alias": "time-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ad96df1-e462-409d-99dc-5c4c42434dcc",
+    "data": [
+      {
+        "text": "change it to ",
+        "userDefined": false
+      },
+      {
+        "text": "All of me",
+        "meta": "@song",
+        "alias": "song",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87251292-9ef0-46dc-a5f8-db3a17716b40",
+    "data": [
+      {
+        "text": "to ",
+        "userDefined": false
+      },
+      {
+        "text": "daily",
+        "meta": "@recurrence",
+        "alias": "recurrence-to",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "weekdays",
+        "meta": "@recurrence",
+        "alias": "recurrence-from",
+        "userDefined": true
+      },
+      {
+        "text": " only",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fc2b85d-f562-4754-bbb6-6a6d585ff404",
+    "data": [
+      {
+        "text": "change it to ",
+        "userDefined": false
+      },
+      {
+        "text": "Wednesday",
+        "meta": "@sys.date",
+        "alias": "date-to",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date",
+        "alias": "date-from",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28e39c3b-439d-49de-b7cb-23f80ee0ec6f",
+    "data": [
+      {
+        "text": "to",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Shape Of You",
+        "meta": "@song",
+        "alias": "song",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0910629e-d5fe-4f29-97d8-6852e134975f",
+    "data": [
+      {
+        "text": "no the one on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date",
+        "alias": "date-from",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ea8c67c-6375-4fc5-ae5b-7eb2a606d3cc",
+    "data": [
+      {
+        "text": "from ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuesday",
+        "meta": "@sys.date",
+        "alias": "date-from",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date",
+        "alias": "date-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23006bc4-0561-4618-ae74-513082d9885c",
+    "data": [
+      {
+        "text": "to ",
+        "userDefined": false
+      },
+      {
+        "text": "10 am",
+        "meta": "@sys.time",
+        "alias": "time-to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b607bdde-eb77-4863-a2fd-e19dd1c95279",
+    "data": [
+      {
+        "text": "no to ",
+        "userDefined": false
+      },
+      {
+        "text": "10 am",
+        "meta": "@sys.time",
+        "alias": "time-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bd2035f-a4ba-4100-822a-b1ee0aa8160a",
+    "data": [
+      {
+        "text": "to ",
+        "userDefined": false
+      },
+      {
+        "text": "every weekend",
+        "meta": "@recurrence",
+        "alias": "recurrence-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34fee498-1a40-4aaf-9065-e030c86ba312",
+    "data": [
+      {
+        "text": "and from ",
+        "userDefined": false
+      },
+      {
+        "text": "10 am",
+        "meta": "@sys.time",
+        "alias": "time-from",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "9 am",
+        "meta": "@sys.time",
+        "alias": "time-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d64a83d8-9b19-449e-a6e6-4c529173f849",
+    "data": [
+      {
+        "text": "the one at ",
+        "userDefined": false
+      },
+      {
+        "text": "10 am",
+        "meta": "@sys.time",
+        "alias": "time-from",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9423bb06-400f-4b71-b4c4-9035a964f721",
+    "data": [
+      {
+        "text": "from ",
+        "userDefined": false
+      },
+      {
+        "text": "weekdays",
+        "meta": "@recurrence",
+        "alias": "recurrence-from",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "meta": "@recurrence",
+        "alias": "recurrence-to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

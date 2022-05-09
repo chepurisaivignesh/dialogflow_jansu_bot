@@ -1,0 +1,106 @@
+[
+  {
+    "id": "197d5ef3-3021-483c-9772-d043a8116c37",
+    "data": [
+      {
+        "text": "reschedule the meeting for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93e3e687-26d8-4b1b-8348-fe36e5cfdd91",
+    "data": [
+      {
+        "text": "edit the ringtone on my phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6777721-1ea1-40f7-b00a-49dcb2fd83c6",
+    "data": [
+      {
+        "text": "change the music",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68865397-6c98-48fe-ad2d-e647b4aaca8b",
+    "data": [
+      {
+        "text": "play Let It Be by The Beatles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd50880a-b2d4-4d96-824b-41cb2ba2cb35",
+    "data": [
+      {
+        "text": "what a beautiful morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f0b1952-c83b-415b-9ee5-873c67ff1257",
+    "data": [
+      {
+        "text": "waking up in the morning is so hard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3e07e8c-000b-4de2-a06e-09d5dbf397f0",
+    "data": [
+      {
+        "text": "play a song for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f6c147b-2cfb-41f2-8c5a-755f5ac3a9f8",
+    "data": [
+      {
+        "text": "I didn\u0027t want an alarm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
